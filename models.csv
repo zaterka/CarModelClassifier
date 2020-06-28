@@ -1,0 +1,706 @@
+Brand,Model
+peugeot,106
+bmw,116i
+bmw,118i
+bmw,120i
+bmw,125i
+volkswagen,1300
+bmw,130i
+bmw,135i
+fiat,147
+volkswagen,1600
+renault,19
+mercedes-benz,190 E
+mercedes-benz,190 SL
+bmw,2002
+peugeot,2008
+peugeot,206
+peugeot,207
+peugeot,208
+mercedes-benz,220 S
+bmw,220i
+bmw,225i
+mercedes-benz,230 S
+nissan,240SX
+mercedes-benz,250
+mercedes-benz,250 C
+mercedes-benz,250 SL
+mercedes-benz,280 CE
+mercedes-benz,280 E
+mercedes-benz,280 S
+mercedes-benz,280 SE
+mercedes-benz,280 SL
+mercedes-benz,280 SLC
+bmw,2800
+mercedes-benz,300 E
+mercedes-benz,300 SL
+nissan,300 ZX
+mitsubishi,3000 GT
+peugeot,3008
+peugeot,306
+peugeot,307
+peugeot,308
+peugeot,308cc
+chevrolet,3100
+bmw,316i
+bmw,318i
+bmw,318iS
+bmw,318Ti
+mercedes-benz,320 E
+bmw,320i
+bmw,323i
+bmw,323Ti
+bmw,325Ci
+bmw,325i
+bmw,328i
+bmw,330i
+bmw,335i
+mercedes-benz,350 SL
+mercedes-benz,350 SLC
+nissan,350Z
+nissan,370Z
+mercedes-benz,380 SE
+peugeot,405
+peugeot,406
+peugeot,407
+peugeot,408
+bmw,420i
+bmw,428i
+bmw,430i
+bmw,435i
+mercedes-benz,450 SL
+mercedes-benz,450 SLC
+fiat,500
+mercedes-benz,500 SEC
+mercedes-benz,500 SEL
+mercedes-benz,500 SL
+mercedes-benz,500 SLC
+peugeot,5008
+peugeot,508
+bmw,528i
+bmw,530e
+bmw,530i
+bmw,535i
+bmw,540i
+bmw,545i
+bmw,550i
+mercedes-benz,560 SEL
+bmw,640i
+bmw,645CI
+bmw,650i
+porsche,718
+bmw,745i
+bmw,750i
+bmw,750Li
+bmw,760Li
+audi,80
+volvo,850
+volvo,855
+porsche,911
+porsche,912E
+porsche,914
+porsche,944
+volvo,960
+ford,A
+mercedes-benz,A 160
+mercedes-benz,A 190
+mercedes-benz,A 200
+mercedes-benz,A 250
+mercedes-benz,A 45 AMG
+audi,A1
+chevrolet,A10
+chevrolet,A20
+audi,A3
+audi,A4
+audi,A5
+audi,A6
+audi,A7
+audi,A8
+hyundai,ACCENT
+honda,ACCORD
+ford,AEROSTAR
+chevrolet,AGILE
+citroen,AIRCROSS
+mitsubishi,AIRTREK
+audi,ALLROAD
+nissan,ALTIMA
+volkswagen,AMAROK
+mercedes-benz,AMG GT
+mercedes-benz,AMG GT 63
+volkswagen,APOLLO
+fiat,ARGO
+nissan,ARMADA
+chery,ARRIZO 5
+chevrolet,ASTRA
+chevrolet,ASTROVAN
+mitsubishi,ASX
+hyundai,ATOS
+chevrolet,AVALANCHE
+hyundai,AZERA
+mercedes-benz,B 170
+mercedes-benz,B 180
+mercedes-benz,B 200
+toyota,BANDEIRANTE
+chevrolet,BEL AIR
+ford,BELINA
+citroen,BERLINGO
+kia,BESTA
+chevrolet,BLAZER
+chevrolet,BOLT
+chevrolet,BONANZA
+kia,BONGO
+volkswagen,BORA
+peugeot,BOXER
+porsche,BOXSTER
+chevrolet,BRASIL
+volkswagen,BRASILIA
+chevrolet,BRASINCA
+fiat,BRAVA
+fiat,BRAVO
+volkswagen,BUGGY
+mercedes-benz,C 180
+mercedes-benz,C 180 K
+mercedes-benz,C 200
+mercedes-benz,C 200 K
+mercedes-benz,C 220
+mercedes-benz,C 230
+mercedes-benz,C 230 K
+mercedes-benz,C 240
+mercedes-benz,C 250
+mercedes-benz,C 280
+mercedes-benz,C 300
+mercedes-benz,C 320
+mercedes-benz,C 350
+mercedes-benz,C 43 AMG
+mercedes-benz,C 450
+mercedes-benz,C 63 AMG
+chevrolet,C10
+chevrolet,C14
+chevrolet,C15
+chevrolet,C20
+citroen,C3
+citroen,C3 PICASSO
+citroen,C3 SONORA
+volvo,C30
+citroen,C4
+citroen,C4 CACTUS
+citroen,C4 GRAND PICASSO
+citroen,C4 LOUNGE
+citroen,C4 PICASSO
+citroen,C5
+citroen,C6
+citroen,C8
+kia,CADENZA
+chevrolet,CALIBRA
+chevrolet,CAMARO
+toyota,CAMRY
+chevrolet,CAPTIVA
+renault,CAPTUR
+chevrolet,CARAVAN
+kia,CARENS
+kia,CARNIVAL
+porsche,CAYENNE
+porsche,CAYMAN
+porsche,CAYMAN R
+porsche,CAYMAN S
+chery,CELER
+chevrolet,CELTA
+kia,CERATO
+dodge,CHALLENGER
+dodge,CHARGER
+jeep,CHEROKEE
+chevrolet,CHEVETTE
+chevrolet,CHEVY 500
+chery,CIELO
+honda,CITY
+honda,CIVIC
+jeep,CJ 5
+mercedes-benz,CL 63 AMG
+mercedes-benz,CLA 180
+mercedes-benz,CLA 200
+mercedes-benz,CLA 250
+mercedes-benz,CLA 45 AMG
+kia,CLARUS
+mercedes-benz,CLASSE A
+chevrolet,CLASSIC
+mercedes-benz,CLC 200
+mercedes-benz,CLC 200 K
+renault,CLIO
+mercedes-benz,CLK 230
+mercedes-benz,CLK 320
+mercedes-benz,CLK 350
+mercedes-benz,CLK 430
+mercedes-benz,CLK 500
+mercedes-benz,CLS 350
+mercedes-benz,CLS 400
+mercedes-benz,CLS 500
+mercedes-benz,CLS 53 AMG
+mercedes-benz,CLS 55 AMG
+mercedes-benz,CLS 63 AMG
+chevrolet,COBALT
+mitsubishi,COLT
+jeep,COMMANDER
+jeep,COMPASS
+mini,COOPER
+ford,CORCEL
+ford,CORCEL II
+toyota,COROLLA
+toyota,CORONA
+chevrolet,CORSA
+chevrolet,CORVETTE
+chevrolet,CORVETTE GRAND SPORT
+mini,COUNTRYMAN
+chevrolet,COUPÉ
+fiat,COUPÉ
+hyundai,COUPÊ
+ford,COURIER
+hyundai,CRETA
+fiat,CRONOS
+volkswagen,CROSS UP
+volkswagen,CROSSFOX
+chevrolet,CRUZE
+honda,CRV
+ford,CUPÊ
+chevrolet,D10
+chevrolet,D20
+chevrolet,D40
+dodge,DAKOTA
+dodge,DART
+land rover,DEFENDER
+ford,DEL REY
+mitsubishi,DIAMANT
+land rover,DISCOVERY
+land rover,DISCOVERY 2
+land rover,DISCOVERY 3
+land rover,DISCOVERY 4
+land rover,DISCOVERY SPORT
+fiat,DOBLÒ
+citroen,DS3
+citroen,DS4
+citroen,DS5
+fiat,DUCATO
+dodge,DURANGO
+renault,DUSTER
+renault,DUSTER OROCH
+mercedes-benz,E 220
+mercedes-benz,E 240
+mercedes-benz,E 250
+mercedes-benz,E 280
+mercedes-benz,E 300
+mercedes-benz,E 320
+mercedes-benz,E 350
+mercedes-benz,E 400
+mercedes-benz,E 420
+mercedes-benz,E 43 AMG
+mercedes-benz,E 430
+mercedes-benz,E 500
+mercedes-benz,E 53 AMG
+mercedes-benz,E 63 AMG
+mitsubishi,ECLIPSE
+mitsubishi,ECLIPSE CROSS
+ford,ECOSPORT
+ford,EDGE
+chevrolet,EL CAMINO
+hyundai,ELANTRA
+fiat,ELBA
+ford,ENCOLINE E 350
+volkswagen,EOS
+jaguar,E-PACE
+chevrolet,EQUINOX
+hyundai,EQUUS
+ford,ESCORT
+toyota,ETIOS
+toyota,ETIOS CROSS
+volkswagen,EUROVAN
+citroen,EVASION
+peugeot,EXPERT
+ford,EXPLORER
+mitsubishi,EXPO
+ford,F-1
+ford,F-100
+ford,F-1000
+ford,F-150
+ford,F-250
+ford,F-350
+ford,F-4000
+ford,F-75
+chery,FACE
+ford,FAIRLANE
+toyota,FIELDER
+ford,FIESTA
+fiat,FIORINO
+honda,FIT
+toyota,FJ CRUISER
+chevrolet,FLEETLINE
+renault,FLUENCE
+ford,FOCUS
+volkswagen,FOX
+jaguar,F-PACE
+land rover,FREELANDER
+land rover,FREELANDER 2
+fiat,FREEMONT
+nissan,FRONTIER
+jaguar,F-TYPE
+volkswagen,FUSCA
+ford,FUSION
+mercedes-benz,G 55 AMG
+mercedes-benz,G 63 AMG
+mitsubishi,GALANT
+ford,GALAXIE
+hyundai,GALLOPER
+hyundai,GENESIS
+mercedes-benz,GL 350
+mercedes-benz,GL 500
+mercedes-benz,GL 63 AMG
+mercedes-benz,GLA 200
+mercedes-benz,GLA 250
+mercedes-benz,GLA 45 AMG
+mercedes-benz,GLC 250
+mercedes-benz,GLC 43 AMG
+mercedes-benz,GLC 63 AMG
+mercedes-benz,GLE 350
+mercedes-benz,GLE 400
+mercedes-benz,GLE 43 AMG
+mercedes-benz,GLE 450
+mercedes-benz,GLE 63 AMG
+mercedes-benz,GLK 220
+mercedes-benz,GLK 280
+mercedes-benz,GLK 300
+mercedes-benz,GLS 350
+mercedes-benz,GLS 63 AMG
+volkswagen,GOL
+volkswagen,GOLF
+chevrolet,GRAND BLAZER
+citroen,GRAND C4
+jeep,GRAND CHEROKEE
+nissan,GRAND LIVINA
+hyundai,GRAND SANTA FÉ
+renault,GRAND SCÉNIC
+fiat,GRAND SIENA
+suzuki,GRAND VITARA
+mitsubishi,GRANDIS
+nissan,GT-R
+hyundai,H1 STAREX
+hyundai,H100
+hyundai,HB20
+hyundai,HB20S
+hyundai,HB20X
+toyota,HILUX
+toyota,HILUX SW4
+peugeot,HOGGAR
+hyundai,HR
+honda,HR-V
+bmw,i3
+hyundai,I30
+hyundai,I30 CW
+bmw,i8
+fiat,IDEA
+suzuki,IGNIS
+chevrolet,IMPALA
+dodge,INTREPID
+chevrolet,IPANEMA
+hyundai,IX35
+jac,J2
+jac,J3
+jac,J5
+jac,J6
+ford,JEEP
+volkswagen,JETTA
+suzuki,JIMNY
+mini,JOHN COOPER WORKS
+dodge,JOURNEY
+nissan,JUKE
+citroen,JUMPER
+citroen,JUMPY
+ford,KA
+ford,KA +
+chevrolet,KADETT
+renault,KANGOO
+volkswagen,KARMANN-GHIA
+nissan,KICKS
+volkswagen,KOMBI
+renault,KWID
+mitsubishi,L200
+mitsubishi,L200 OUTDOOR
+mitsubishi,L200 SAVANA
+mitsubishi,L200 TRITON
+mitsubishi,L300
+renault,LAGUNA
+mitsubishi,LANCER
+toyota,LAND CRUISER
+toyota,LAND CRUISER PRADO
+ford,LANDAU
+honda,LEGEND
+fiat,LINEA
+nissan,LIVINA
+renault,LOGAN
+volkswagen,LOGUS
+bmw,M 135i
+bmw,M 140i
+bmw,M 240i
+bmw,M2
+bmw,M235i
+bmw,M3
+bmw,M4
+bmw,M5
+bmw,M6
+porsche,MACAN
+kia,MAGENTIS
+dodge,MAGNUM
+chevrolet,MALIBU
+chevrolet,MARAJÓ
+nissan,MARCH
+fiat,MAREA
+renault,MASTER
+ford,MAVERICK
+nissan,MAXIMA
+renault,MÉGANE
+chevrolet,MERIVA
+mercedes-benz,ML 320
+mercedes-benz,ML 350
+mercedes-benz,ML 430
+mercedes-benz,ML 500
+mercedes-benz,ML 55 AMG
+mercedes-benz,ML 63 AMG
+fiat,MOBI
+kia,MOHAVE
+ford,MONDEO
+chevrolet,MONTANA
+chevrolet,MONZA
+nissan,MURANO
+ford,MUSTANG
+volkswagen,NEW BEETLE
+honda,ODYSSEY
+chevrolet,OMEGA
+mini,ONE
+chevrolet,ONIX
+chevrolet,OPALA
+kia,OPIRUS
+kia,OPTIMA
+mitsubishi,OUTLANDER
+mini,PACEMAN
+mitsubishi,PAJERO
+mitsubishi,PAJERO DAKAR
+mitsubishi,PAJERO FULL
+mitsubishi,PAJERO IO
+mitsubishi,PAJERO SPORT
+mitsubishi,PAJERO TR4
+fiat,PALIO
+ford,PAMPA
+porsche,PANAMERA
+volkswagen,PARATI
+peugeot,PARTNER
+toyota,PASEO
+volkswagen,PASSAT
+volkswagen,PASSAT VARIANT
+honda,PASSPORT
+nissan,PATHFINDER
+ford,PHAETON
+kia,PICANTO
+chevrolet,PICKUP
+dodge,PICK-UP
+honda,PILOT
+volkswagen,POINTER
+volkswagen,POLO
+volkswagen,POLO SEDAN
+hyundai,PORTER
+fiat,PREMIO
+toyota,PREVIA
+chevrolet,PRISMA
+toyota,PRIUS
+ford,PROBE
+fiat,PUNTO
+audi,Q3
+audi,Q5
+audi,Q7
+chery,QQ
+volkswagen,QUANTUM
+nissan,QUEST
+mercedes-benz,R 500
+audi,R8
+dodge,RAM
+land rover,RANGE ROVER
+land rover,RANGE ROVER EVOQUE
+land rover,RANGE ROVER SPORT
+land rover,RANGE ROVER VELAR
+land rover,RANGE ROVER VOGUE
+ford,RANGER
+toyota,RAV4
+peugeot,RCZ
+jeep,RENEGADE
+mini,ROADSTER
+ford,ROYALE
+audi,RS Q3
+audi,RS3
+audi,RS4
+audi,RS5
+audi,RS6
+audi,RS7
+ford,RURAL
+mercedes-benz,S 320
+mercedes-benz,S 400
+mercedes-benz,S 500
+mercedes-benz,S 500 L
+mercedes-benz,S 600
+mercedes-benz,S 63 AMG
+mercedes-benz,S 65 AMG
+chevrolet,S10
+chery,S-18
+audi,S3
+audi,S4
+volvo,S40
+audi,S5
+audi,S6
+volvo,S60
+audi,S7
+volvo,S70
+audi,S8
+volvo,S80
+volvo,S90
+suzuki,SAMURAI
+renault,SANDERO
+hyundai,SANTA FÉ
+volkswagen,SANTANA
+volkswagen,SAVEIRO
+renault,SCÉNIC
+suzuki,S-CROSS
+nissan,SENTRA
+land rover,SERIES I
+land rover,SERIES III
+suzuki,SIDEKICK
+fiat,SIENA
+toyota,SIENNA
+chevrolet,SILVERADO
+mercedes-benz,SL 350
+mercedes-benz,SL 400
+mercedes-benz,SL 500
+mercedes-benz,SL 63 AMG
+mercedes-benz,SL 65 AMG
+ford,SLANTBACK
+mercedes-benz,SLC 300
+mercedes-benz,SLK 200
+mercedes-benz,SLK 230
+mercedes-benz,SLK 250
+mercedes-benz,SLK 300
+mercedes-benz,SLK 32 AMG
+mercedes-benz,SLK 320
+mercedes-benz,SLK 350
+mercedes-benz,SLK 55 AMG
+mercedes-benz,SLS AMG
+hyundai,SONATA
+chevrolet,SONIC
+kia,SORENTO
+kia,SOUL
+volkswagen,SP2
+volkswagen,SPACE CROSS
+mitsubishi,SPACE WAGON
+volkswagen,SPACEFOX
+chevrolet,SPIN
+kia,SPORTAGE
+mercedes-benz,SPRINTER
+porsche,SPYDER 550
+audi,SQ5
+chevrolet,SS
+chevrolet,SSR
+fiat,STILO
+kia,STINGER
+fiat,STRADA
+chevrolet,STYLEMASTER
+jaguar,S-TYPE
+chevrolet,SUBURBAN
+ford,SUPER DELUXE
+chevrolet,SUPREMA
+suzuki,SWIFT
+suzuki,SX4
+renault,SYMBOL
+ford,T
+jac,T40
+jac,T5
+jac,T50
+jac,T6
+jac,T8
+jac,T80
+chevrolet,TAHOE
+ford,TAURUS
+volkswagen,T-CROSS
+fiat,TEMPRA
+hyundai,TERRACAN
+nissan,TERRANO
+ford,THUNDERBIRD
+chery,TIGGO
+chery,TIGGO 2
+chery,TIGGO 5x
+chery,TIGGO 7
+chevrolet,TIGRA
+volkswagen,TIGUAN
+nissan,TIIDA
+fiat,TIPO
+volkswagen,TL
+fiat,TORO
+volkswagen,TOUAREG
+chevrolet,TRACKER
+renault,TRAFIC
+chevrolet,TRAILBLAZER
+ford,TRANSIT
+audi,TT
+audi,TT RS
+audi,TTS
+hyundai,TUCSON
+ford,TUDOR
+toyota,TUNDRA
+renault,TWINGO
+fiat,UNO
+volkswagen,UP
+jac,V260
+volvo,V40
+volvo,V50
+volvo,V60
+volvo,V70
+volkswagen,VAN
+volkswagen,VARIANT
+volkswagen,VARIANT II
+chevrolet,VECTRA
+chevrolet,VEGA
+hyundai,VELOSTER
+hyundai,VERACRUZ
+chevrolet,VERANEIO
+ford,VERONA
+nissan,VERSA
+ford,VERSAILLES
+volkswagen,VIRTUS
+suzuki,VITARA
+mercedes-benz,VITO
+volkswagen,VOYAGE
+jeep,WRANGLER
+honda,WR-V
+bmw,X1
+bmw,X2
+bmw,X3
+bmw,X4
+bmw,X5
+bmw,X6
+citroen,XANTIA
+volvo,XC40
+volvo,XC60
+volvo,XC70
+volvo,XC90
+jaguar,XE
+jaguar,XF
+jaguar,XFR
+jaguar,XJ
+jaguar,XJ12
+jaguar,XJ6
+jaguar,XJ8
+jaguar,XJS
+jaguar,XK8
+jaguar,XKR
+citroen,XSARA
+citroen,XSARA PICASSO
+nissan,XTERRA
+nissan,X-TRAIL
+jaguar,X-TYPE
+toyota,YARIS
+bmw,Z3
+bmw,Z4
+chevrolet,ZAFIRA
+citroen,ZX
