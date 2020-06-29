@@ -59,7 +59,7 @@ This model was deployed to Heroku and can be seen at:
 https://car-classiflier.herokuapp.com/
 
 
-The code for deploying it straight from Github is can be found at: 
+The code for deploying it straight from Github can be found at: 
 
 https://github.com/zaterka/car-classifier-heroku
 
