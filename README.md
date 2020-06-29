@@ -51,3 +51,15 @@ cd google-images-download && sudo python setup.py install
 
 A list of brands and models available in Brazil is also available in the models.csv file.
 
+
+**Related works**
+
+This model was deployed to Heroku and can be seen at: 
+
+https://car-classiflier.herokuapp.com/
+
+
+The code for deploying it straight from Github is can be found at: 
+
+https://github.com/zaterka/car-classifier-heroku
+
